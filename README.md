@@ -1,17 +1,21 @@
-# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/YOSHITHA_RATHNAYAKE.html"><b><i>Yoshitha Rathnayake</i></b></a></div>
-
+# <div align="center"><a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div> 
+ 
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
-# ![GitHub followers](https://img.shields.io/github/followers/yoshitha-sack?logo=GitHub&style=for-the-badge)
+# ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
-<a href="https://github.com/Yoshitha-SACK">@Yoshitha-SACK<a>
+#
+<a href="https://github.com/YoshithaRathnayake">@YoshithaRathnayake<a>
 
+<a href="https://skyline.github.com/yoshitharathnayake/2022">Github Skyline<a>
+
+# 
 > Hi, I am Yoshitha Rathnayake. This is my personal portfolio.
 
 
 # About Me
 
-> I am <a href="https://yoshitharathnayake.w3spaces.com/YOSHITHA_RATHNAYAKE.html"><b><i>Yoshitha Rathnayake.</i></b></a>
+> I am <a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>Yoshitha Rathnayake.</i></b></a>
 
 > I am a Student, Software Developer, Programmer, Web Developer, Game Developer, Video Editor, Photo Editor and a badminton player.
 
@@ -30,6 +34,8 @@
 > I am a member of <a href="https://github.com/acf-sack"><b><i>ACF Committee</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
 
 > I am a Volkswagen car lover.
+ 
+> I hope to be a <b><i>Computer Engineer 💻 </i></b> in the future.
 
 > I am proud to say that I am a Sri Lankan, Buddhist and Antonian.
 
@@ -79,7 +85,7 @@
 <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
     
     
-> Game Developing with RPG Maker MV (Software)
+> Game Developing with RPG Maker MV (Software) 
 
 
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>
@@ -105,13 +111,16 @@
 # Follow Me
   
   
-<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake2008" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/YoshithaSenesh" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/yoshitha_rathnayake/" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>
-
+<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/Yoshitha-SACK" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/YoshithaSenesh" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/yoshitha_rathnayake/" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>
+ 
+ 
+#
+ <p align="center">
+  <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" />
+  <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" />
+</p>
+ 
+#
 **Visitors Count**
   
 ![VisitorCount](https://profile-counter.glitch.me/{yoshitharathnayake2008}/count.svg)
-
-<!---
-Yoshitha-SACK/Yoshitha-SACK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
