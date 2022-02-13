@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div> 
+# <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
  
 # <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
 
@@ -15,23 +15,27 @@
 
 # About Me
 
-> I am <a href="https://yoshitharathnayake.github.io/Yoshitha-Site/"><b><i>Yoshitha Rathnayake.</i></b></a>
+> I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
-> I am a Student, Software Developer, Programmer, Web Developer, Game Developer, Video Editor, Photo Editor and a badminton player.
-
+> I am a Student, Developer, Designer, Software Developer, Web Developer, Game Developer, Programmer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer and a badminton player.
+ 
 > I am 13 years old. 
 
 > I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy.</i></b></a>
+ 
+> I am a <a href="https://developers.google.com/"><b><i>Developer of Google</i></b> </a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake </i></b></a>)
+ 
+> I am a member of <a href="https://medium.com/"><b><i>Medium</i></b></a> (<a href="https://yoshitharathnayake.medium.com/"><b><i> yoshitharathnayake.medium.com </i></b></a>)
 
 > My favourite subject is ICT.
 
 > I am observing Buddhism as my religion.
 
-> I live in Kandy District, Central Province, Sri Lanka. 
+> I live in Kandy District, Central Province, Sri Lanka.
 
 > I am playing Badminton 🏸 in my school as my favourite sport.
 
-> I am a member of <a href="https://github.com/acf-sack"><b><i>ACF Committee</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
+> I am a member of <a href="https://github.com/acf-sack"><b><i>Antonian Computer Fraternity (ACF)</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
 
 > I am a Volkswagen car lover.
  
@@ -61,30 +65,55 @@
 
 > Working with Microsoft Edge, Chrome, Mozilla Firefox, Opera, Safari (Web Browsers)
     
-<a href="https://www.microsoft.com/en-us/edge?r=1"><img src="https://img.icons8.com/color/48/4a90e2/ms-edge-new.png"/></a>      <a href="https://www.google.com/chrome/"><img src="https://img.icons8.com/fluency/48/4a90e2/chrome.png"/></a>       <a href="https://www.mozilla.org/en-US/exp/firefox/new/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/43/4a90e2/external-firefox-a-free-and-open-source-web-browser-developed-by-the-mozilla-foundation-logo-color-tal-revivo.png"/></a>       <a href="https://www.opera.com/download"><img src="https://img.icons8.com/color/48/4a90e2/opera--v1.png"/></a>      <a href="https://support.apple.com/downloads/safari"><img src="https://img.icons8.com/color/48/4a90e2/safari--v1.png"/></a>
+<a href="https://www.microsoft.com/en-us/edge?r=1"><img src="https://img.icons8.com/color/48/4a90e2/ms-edge-new.png"/></a>      <a href="https://www.google.com/chrome/"><img src="https://img.icons8.com/fluency/48/4a90e2/chrome.png"/></a>       <a href="https://www.mozilla.org/en-US/exp/firefox/new/"><img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" height="43px"/></a>       <a href="https://www.opera.com/download"><img src="https://img.icons8.com/color/48/4a90e2/opera--v1.png"/></a>      <a href="https://support.apple.com/downloads/safari"><img src="https://img.icons8.com/color/48/4a90e2/safari--v1.png"/></a>
   
-> Web Designing with Notepad, Notepad++, Visual Studio Code, IntelliJ, Pycharm (Softwares)
+ 
+> Web Designing with Notepad, Notepad++, Visual Studio Code, IntelliJ, Pycharm, Adobe Dreamweaver (Softwares)
 
 
-<a href="https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab"><img src="https://www.file-extensions.org/imgs/app-icon/128/759/microsoft-windows-notepad-icon.png" height="45px"><a>    <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/fluency/48/000000/notepad-plus-plus.png"/><a>  <a href="https://code.visualstudio.com/Download"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><a>    <a href="https://www.jetbrains.com/idea/download/?fromIDE=#section=windows"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><a>   <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><a>
+<a href="https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab"><img src="https://www.file-extensions.org/imgs/app-icon/128/759/microsoft-windows-notepad-icon.png" height="45px"><a>    <a href="https://notepad-plus-plus.org/downloads/"><img src="https://img.icons8.com/fluency/48/000000/notepad-plus-plus.png"/><a>  <a href="https://code.visualstudio.com/Download"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><a>    <a href="https://www.jetbrains.com/idea/download/?fromIDE=#section=windows"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><a>   <a href="https://www.jetbrains.com/pycharm/download/#section=windows"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><a>      <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://www.adobe.com/content/dam/cc/icons/dw_cc_app_RGB.svg" height="43px"/><a>
 
+
+ 
 > Web Designing with HTML, CSS, JavaScript, Bootstrap, Python (Programming Languages) 
-
 
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>   <a href="https://www.w3schools.com/python/"><img src="https://img.icons8.com/fluency/48/000000/python.png"/><a>
         
 
-> Video Editing with Adobe Premiere Pro, Microsoft Video Editor, Movie Maker (Softwares)
+> Video Editing with Adobe Premiere Pro, Wonershare Filmora X, Microsoft Video Editor, Movie Maker (Softwares)
     
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://img.icons8.com/material/52/4a90e2/adobe-premiere-pro.png"/></a> 
-<img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
-    
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg" height="43px"/></a>      <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" height="43px"/></a>      <a href="https://filmora.wondershare.com/"><img src="https://img.icons8.com/color/50/000000/filmora.png"/></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>     <img src="https://img.icons8.com/fluency/50/4a90e2/windows-movie-maker.png"/>
+ 
+ 
 > Photo Editing with Adobe Photoshop, Microsoft Photos (Softwares)
     
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color-glass/50/4a90e2/adobe-photoshop.png"/></a> 
-<img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" height="43px"/></a>       <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg" height="43px"/></a>       <a href="https://www.adobe.com/products/photoshop-express.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop-express.svg" height="43px"></a>     <img src="https://img.icons8.com/fluency/50/4a90e2/photos.png"/>
+ 
+ 
+ > UI and UX Designing with Figma, Adobe Illustrator, Adobe InDesign (Softwares) 
+
+
+<a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><a>       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a>      <a href="https://www.adobe.com/products/indesign.html"><img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" height="45px"/></a>
+ 
+ 
+> Graphic Designing with Adobe Illustrator, Blender (Softwares)
     
-    
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" height="43px"/></a> 
+<a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>
+ 
+ 
+> Open Source working GitHub, GitLab (Platforms) 
+
+
+<a href="https://www.github.com/YoshithaRathnayake"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/><a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+ 
+ 
+> Audio Editing with Audacity, Adobe Audition (Softwares) 
+
+
+<a href="https://www.audacityteam.org/"><img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" height="43px"/><a>       <a href="https://www.adobe.com/products/audition.html"><img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/audition.svg" height="43px"/></a>
+ 
+ 
 > Game Developing with RPG Maker MV (Software) 
 
 
@@ -103,9 +132,13 @@
   
 > Short Name :- <b><i>Yoshitha Rathnayake</i></b>
   
-> Phone Number :- <b><i>+94767073488</i></b>
+> Phone Number :- <a href="tel:+94 076 707 3488"><b><i>+94 076 707 3488</i></b></a>
   
-> Email :- <a href="https://mail.google.com/mail/u/0/?fs=1&to=y.s.b.rathnayake2008@gmail.com&tf=cm" ><b><i>Y.S.B.Rathnayake2008@gmail.com</i></b></a>
+> Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
+ 
+> Google Developer :- <a href="https://developers.google.com/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
+ 
+> Medium :- <a href="https://yoshitharathnayake.medium.com/"><b><i>yoshitharathnayake.medium.com</i></b></a>
   
   
 # Follow Me
@@ -124,3 +157,9 @@
 **Visitors Count**
   
 ![VisitorCount](https://profile-counter.glitch.me/{yoshitharathnayake2008}/count.svg)
+
+<!---
+Yoshitha-SACK/Yoshitha-SACK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ 
