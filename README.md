@@ -28,8 +28,8 @@
 
 > I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
-> I am a Student, Developer, Designer, Software Developer, Web Developer, Game Developer, Programmer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer and a badminton player.
- 
+> I am a Student, Developer, Designer, Software Developer, Web Developer, Game Developer, Programmer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer and a Badminton Player.
+
 > I am 13 years old. 
 
 > I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy.</i></b></a>
@@ -111,6 +111,11 @@
 <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/48/000000/blender-3d.png"/></a>      <a href="https://www.gimp.org/"><img src="https://img.icons8.com/fluency/50/000000/gimp.png"/></a>      <a href="https://www.sketch.com/"><img src="https://img.icons8.com/plasticine/60/000000/sketch.png"/></a>
  
  
+> Screen Recording with OBS Studio, Bandicam, X Box Game Bar (Softwares)
+ 
+<a href="https://obsproject.com/"><img src="https://obsproject.com/assets/images/new_icon_small-r.png" height="50px"></a>      <a href="https://www.bandicam.com/"><img src="https://www.bandicam.com/company/logo/bandicam_symbol.png" height="50px"></a>      <a href="https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p?activetab=pivot:overviewtab"><img src="https://th.bing.com/th/id/OIP.lhYMDZ0GTu4xVNjFVeofhAAAAA?pid=ImgDet&rs=1" height="50px"></a>
+ 
+ 
 > Open Source Contributing with GitHub, GitLab (Platforms) 
 
 <a href="https://github.com/YoshithaRathnayake"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>       <a href="https://www.gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
@@ -123,7 +128,7 @@
  
 > Game Developing with RPG Maker MV, Unity (Softwares) 
 
-<a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>       <a href="https://unity.com/"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
+<a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>       <a href="https://unity.com/"><img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png"/></a>
 
 
 > Programming with Scratch (Software)
@@ -137,7 +142,50 @@
 
 
  
-<!-- Contact Me --> 
+ <!-- Contribution Details -->
+#
+# Contribution Details 📊
+<!-- Most used languages -->
+<p align="center">
+ <b><i>MOST USED LANGUAGES</i></b>
+</p>
+<div align="center"><img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" /></div>
+
+<!-- Contribution Details -->
+ #
+<p align="center">
+ <b><i>CONTRIBUTION DETAILS</i></b>
+</p>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=YoshithaRathnayake" align="center"></div>
+
+ <!-- GitHub Stats -->
+#
+<p align="center">
+ <b><i>GITHUB STATS</i></b>
+</p>
+<div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" /></div>
+
+<!-- Contribution Graph -->
+ #
+<p align="center">
+ 📊 <i>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅</i> 📊
+</p>
+<p align="center">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&custom_title=Contribution+Graph&theme=xcode" />
+ 
+<!-- Trophies -->
+ #
+<p align="center">
+ 🏆 <i>𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒</i> 🏆
+</p>
+<p align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub" />
+</p>
+ 
+ 
+ 
+<!-- Contact Me -->
+#
 # Contact Me  ![1f4de](https://user-images.githubusercontent.com/97069900/154191604-ac56f694-0ae9-41bd-bb9e-3d533823dc25.png)
 
   
@@ -153,29 +201,22 @@
   
 
  
-<!-- Follow Me --> 
+<!-- Follow Me -->
+#
 # Follow Me
   
   
 <a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/Yoshitha2008" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>     <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" /></a>
  
 
-
-<!-- GitHub Information -->
-#
- <p align="center">
-  <!-- GitHub Stats -->
-  <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" />
-  <!-- Most used languages -->
-  <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" />
-</p>
-
+ 
 <!-- Visitors Count --> 
 #
 **Visitors Count**
   
 ![VisitorCount](https://profile-counter.glitch.me/{yoshitharathnayake2008}/count.svg)
 
+ 
 <!---
 Yoshitha-SACK/Yoshitha-SACK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
