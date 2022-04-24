@@ -1,8 +1,8 @@
-<!-- Main Heading -->
+<!-- Main Heading --> 
 # <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
  
 <!-- Image --> 
-# <div align="center"><img src="Yoshitha Rathnayake 2.png" height="250px" alt="Yoshitha Rathnayake"></div>
+# <div align="center"><img src="Yoshitha Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
 
 <!-- Number of GitHub Followers -->
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
@@ -16,9 +16,9 @@
  
 <!-- First Paragraph -->
 # 
-> Hi, I am Yoshitha Rathnayake.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+> Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-> This is my personal portfolio.
+> This is ***My Personal Portfolio***.
 
  
 
@@ -28,9 +28,9 @@
 
 > I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
-> I am a Student, Developer, Designer, Software Developer, Web Developer, Game Developer, Programmer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer and a Badminton Player.
+> I am a ***Student, Developer, Designer, Programmer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player***.
 
-> I am 13 years old. 
+> I am ***13*** years old. 
 
 > I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy.</i></b></a>
  
@@ -38,21 +38,21 @@
  
 > I am a member of <a href="https://medium.com/"><b><i>Medium</i></b></a> (<a href="https://yoshitharathnayake.medium.com/"><b><i> yoshitharathnayake.medium.com </i></b></a>)
 
-> My favourite subject is ICT.
+> My favourite subject is ***ICT***.
 
-> I am observing Buddhism as my religion.
+> I am observing ***Buddhism*** as my religion.
 
-> I live in Kandy District, Central Province, Sri Lanka.
+> I live in ***Kandy District, Central Province, Sri Lanka***.
 
-> I am playing Badminton 🏸 in my school as my favourite sport.
+> I am playing ***Badminton*** 🏸 in my school as my favourite sport.
 
 > I am a member of <a href="https://github.com/acf-sack"><b><i>Antonian Computer Fraternity (ACF)</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
 
-> I am a Volkswagen car lover.
+> I am a ***Volkswagen*** car lover.
  
-> I hope to be a <b><i>Computer Engineer 💻 </i></b> in the future.
+> I hope to be a ***Computer Engineer*** 💻 in the future.
 
-> I am proud to say that I am a Sri Lankan, Buddhist and Antonian.
+> I am proud to say that I am a ***Sri Lankan, Buddhist and Antonian***.
 
 
  
