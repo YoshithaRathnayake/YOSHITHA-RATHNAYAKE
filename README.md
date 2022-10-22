@@ -1,8 +1,25 @@
+<!-- Auto Typing Name -->
+#
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=YOSHITHA+RATHNAYAKE&font=Fira%100Code&size=50&color=00ff62&center=true&width=580&height=70">
+
+</p>
+
+
 <!-- Main Heading --> 
-# <div align="center"><a href="https://www.Yoshitha.tk"><b><i>YOSHITHA RATHNAYAKE</i></b></a></div>
+# <div align="center"><a href="https://www.Yoshitha.tk" size="100px"><b><i>Yᴏsʜɪᴛʜᴀ Rᴀᴛʜɴᴀʏᴀᴋᴇ</i></b></a></div>
+
  
 <!-- Image --> 
 # <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
+
+
+<!-- Auto Typing About -->
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=++++Hi,++I'm++YOSHITHA++RATHNAYAKE;I'm+a+Student;I'm+a+Developer;I'm+a+Designer;I'm+a+Programmer;I'm+an+Editor;I'm+a+Photographer;And+I'm+a+Videographer)](https://git.io/typing-svg)
+</div>
 
 <!-- Number of GitHub Followers -->
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
@@ -16,7 +33,7 @@
  
 <!-- First Paragraph -->
 # 
-> Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">
+> Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 > This is ***My Personal Portfolio***.
 
@@ -28,11 +45,13 @@
 
 > I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
 
-> I am a ***Student, Developer, Designer, Programmer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player***.
+> I am a ***Student, Developer, Designer, Programmer, Editor, Photographer, Videographer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player***.
 
-> I am ***13*** years old. 
+> I am ***14*** years old. 
 
 > I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy.</i></b></a>
+
+> I am studying in ***Grade 9D*** in my school.
  
 > I am a <a href="https://developers.google.com/"><b><i>Developer of Google</i></b> </a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake </i></b></a>)
  
@@ -131,18 +150,26 @@
 <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv"><img src="https://www.autotechint.com/wp-content/uploads/rpg-maker-mv-icon-32.png" height="42px"><a>       <a href="https://unity.com/"><img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png"/></a>
 
 
+> App Developing with Visual Studio, Android Studio, Flutter, AppGyver (Softwares)
+
+<a href="https://visualstudio.microsoft.com/vs/"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
+<a href="https://developer.android.com/studio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" height="50px"/></a>
+<a href="https://flutter.dev/"><img src="https://img.icons8.com/color/344/flutter.png" height="50px"/></a>
+<a href="https://www.appgyver.com"><img src="https://global-uploads.webflow.com/5dbff9c19bf13ec2ef5678ad/5dbffbe35ad64f67068cdf18_black.png" height="50px"></a>
+
+
 > Programming with Scratch (Software)
 
 <a href="https://scratch.mit.edu/download/"><img src="https://www.pngkey.com/png/full/786-7861727_scratch-desktop-4-scratch-desktop-logo.png" height="40px"><a>
- 
- 
-> App Developing with Visual Studio (Software)
-
-<a href="https://visualstudio.microsoft.com/vs/"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
 
 
+> DJ with Virtual DJ (Software)
+
+<a href="https://www.virtualdj.com/"><img src="https://www.virtualdj.com/favicon.ico?ver=8.0" height="50px"><a>  
+
+
  
- <!-- Contribution Details -->
+<!-- Contribution Details -->
 #
 # Contribution Details 📊
 <!-- Most used languages -->
@@ -150,38 +177,84 @@
  <b><i>MOST USED LANGUAGES</i></b>
 </p>
 <div align="center"><img alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitharathnayake&layout=compact&count_private=true" /></div>
+<div align="center"><img alt="Yoshitha's Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshithaRathnayake" /></div>
 
 <!-- Contribution Details -->
- #
+#
 <p align="center">
  <b><i>CONTRIBUTION DETAILS</i></b>
 </p>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=YoshithaRathnayake" align="center"></div>
 
- <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 #
 <p align="center">
  <b><i>GITHUB STATS</i></b>
 </p>
-<div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true" /></div>
+<div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yoshitharathnayake&show_icons=true&count_private=true"/></div>
 
 <!-- Contribution Graph -->
- #
+#
 <p align="center">
- 📊 <i>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅</i> 📊
+   <i><b>CONTRIBUTION GRAPH</b></i>
 </p>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&custom_title=Contribution+Graph&theme=xcode" />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
+
+</p>
  
 <!-- Trophies -->
  #
 <p align="center">
- 🏆 <i>𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒</i> 🏆
+   <i><b>TROPHIES</b></i>
 </p>
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub" />
 </p>
+
+<!-- Contribution Table -->
+ #
+<p align="center">
+   <i><b>CONTRIBUTION TABLE</b></i>
+</p>
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
  
+<!-- Most Worked Repositories -->
+ #
+ <p align="center">
+   <i><b>MOST WORKED REPOSITORIES</b></i>
+</p>
+
+#
+
+<div align="center">
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/YOSHITHA-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=NEW-YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=sack-site&theme=dark)](https://github.com/acf-sack/sack-site) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=sef-site&theme=dark)](https://github.com/sef-global/sef-site) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+</div>
+ 
+ 
+<!-- Archievements -->
+#
+# Archivements <img src="https://img.icons8.com/emoji/344/star-emoji.png" height="80px">
+
+<!-- Badges -->
+<p align="center">
+ <b><i>BADGES</i></b>
+</p>
+
+[![@yoshitha_rathnayake's Holopin board](https://holopin.io/api/user/board?user=yoshitha_rathnayake)](https://holopin.io/@yoshitha_rathnayake) 
+
  
  
 <!-- Contact Me -->
@@ -193,7 +266,7 @@
   
 > Short Name :- <b><i>Yoshitha Rathnayake</i></b>
   
-> Phone Number :- <a href="tel:+94 076 707 3488"><b><i>+94 076 707 3488</i></b></a>
+> Phone Number :- <a href="tel:+94 72 825 9003"><b><i>+94 72 825 9003</i></b></a>
   
 > Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
  
@@ -206,7 +279,7 @@
 # Follow Me
   
   
-<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/Yoshitha2008" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>     <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" /></a>
+<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" /></a>    <a href="https://t.me/joinchat/hP-WbTXCf185YTg1" ><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" /></a>   <a href="https://github.com/YoshithaRathnayake" ><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Git Hub Icon" /></a>    <a href="https://gitlab.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Git Lab Icon"/></a>    <a href="https://twitter.com/Yoshitha2008" ><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" /></a>     <a href="https://www.instagram.com/YoshithaRathnayake" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" /></a>                   <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" /></a>
  
 
  
@@ -215,3 +288,9 @@
 **Visitors Count**
   
 ![VisitorCount](https://profile-counter.glitch.me/{YoshithaRathnayake}/count.svg)
+
+ 
+<!---
+YoshithaRathnayake/YoshithaRathnayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
